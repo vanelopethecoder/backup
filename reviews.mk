@@ -1,0 +1,59 @@
+Contents
+
+1. Initialisation
+When reviews are open and what starts going through your head
+
+2. During reviews
+
+3. The hours
+
+4. strategies for tackling reviews
+
+- person at a time
+- tackling the answerable questions first
+- splitting by role and relation
+- client team, entelect team, outside client members
+- finish and submit vs write, collect, review, submit 
+
+5. the anti-climax illusion
+
+- listen to adam grant's podcast on receiving criticism 
+- find sources for improving how you deliver reviews and receive them
+
+######Initialisation
+
+Existing at entelect is like existing in an unique biome within
+the sphere of consultancies. The review process is an experience on it's own and can come as a jolt to those that are unprepared for it. 
+
+My experience of reviews has grown from period to period and I've learnt that each period results with a new standard that one sets for themselves. The standard that is 2 fold, resulting of the part that is set for the quality of reviews that is delivered to the teammates and the setting of goals and systems that will channel the tone for the period that is to proceed following the ending of this cycle.
+
+During the time spent with the company my review cycles have changed in the following way:
+
+5 
+3 
+10
+13
+
+The greater your review list, the higher the anxiety and stress levels to be induced.
+Once you reach a certain number, an increase of 1 or 2 requires a change of plan and reevaluation of time and energy. Engaging in your reviews fully is an opportunity to communicate truths to your teammates that you are otherwise not comfortable speaking of. Entelect asks us to reflect during this period and enforces upon us a period of introspection and comparison to our past selves. A clever way of instilling into our bones, that growth is not optional and assigning your only competitor as your past self. It's too easy to forget about reviews until the mark approaches, it is then that you see the personas altering around you. There is a heightened mindfulness that permeated the work atmosphere. The weeks during reviews being open are flooded with stress that needs to be controlled. Whilst sitting down to write these, one can't help but wonder about the very person that you're reviewing, and consider their thoughts on you, worry about that time when you lost your cool. Are they going to hold this against me?
+
+Reviews are painful in a cringe worthy way, it feels like they want me to be someone that I
+
+I'm not. And if im not, it implies that I need to work towards some sort of perfect form that does everything right. It's a grading system that is entirely tangilable based on our flawed perceptions of each other. All we ever see is 5% of the truth. I can try, to reach out with my deepest mind and consider the possibilities behind behavior, but that will, nonetheless, result in a flawed perspective.
+
+Writing reviews is unlike any other task that we are charged with. The process is a unique experience for each of us. I need to think about them for a period before beginning, and trigger my mind into a consolidation process of the events of the past 5 months.
+
+Once sitting down to write the reviews, you're quickly flooded with feelings from your previous session, the tiredness creeping up on your mind and the reminder that this is not something that you can do while tired. You can push and write reviews one after the other, but your mind needs a quick reset before each one. You need to switch mind sets for each person as every one of them has their own role, personality and flavor that they add to the group. Beware of reviewing in 
+
+2. The process
+
+Once reviews are open, it is a process of filtering through the months of information we have collected. 
+
+There are strategies pre-review period that are worth discussing.
+Continuous reviews have been mentioned, where you jot down note worthy things that you team members have done, positive and negative and this provides you with better over view of what has taken place and you are less likely to be heavily biased based on something that stood out more to you than the others. 
+
+Chatting to people before the review to get clarity on aspects that you do not have sight on.
+
+Ignoring questions and just writing about what you do know is always better than pretending to have context. 
+
+

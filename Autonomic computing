@@ -1,0 +1,35 @@
+
+**4 types**
+1. self-configuration
+2. self-optimisation
+3. self-protection
+4. self-healing
+
+**8 Characteristics that define autonomic computing**
+1. automatically configure
+2. work against problems
+3. adapt to it's environment 
+4. relay in open standard
+5. know itself
+6. optomise its performance 
+7. anticipate on demand of its resources 
+8. protect itself
+
+
+How am I to go about simulating the freezing process. 
+
+pso strategy
+https://www.youtube.com/watch?v=JhgDMAm-imI
+http://www.inf.u-szeged.hu/~jelasity/selfstar05.html
+https://0-ieeexplore-ieee-org.ujlink.uj.ac.za/document/8831220
+https://0-ieeexplore-ieee-org.ujlink.uj.ac.za/document/1687596
+
+**An Autonomic Approach in Swarm-Array Computing**
+B. Varghese and G. T. McKee, "An Autonomic Approach in Swarm-Array Computing," 2009 Fourth International Multi-Conference on Computing in the Global Information Technology, Cannes, La Bocca, 2009, pp. 246-252, doi: 10.1109/ICCGI.2009.44.
+
+**A Self-Organized Model of Agent-Enabling Autonomic Computing for Grid Environment**
+Hang Guo, Ji Gao, Peiyou Zhu and Fan Zhang, "A Self-Organized Model of Agent-Enabling Autonomic Computing for Grid Environment," 2006 6th World Congress on Intelligent Control and Automation, Dalian, 2006, pp. 2623-2627, doi: 10.1109/WCICA.2006.1712837.
+
+http://www.inf.u-szeged.hu/~jelasity/selfstar05.html
+
+https://www.youtube.com/watch?v=DzcZ6bP4FGw&t=270s
